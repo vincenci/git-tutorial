@@ -1,1 +1,1 @@
-console.log("this changes git VERSION");
+console.log("this changes git VERSION 1");
